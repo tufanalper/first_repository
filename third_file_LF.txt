@@ -1,3 +1,5 @@
 This is my third file with change 2
 
 This is the second change for the third file
+
+some other changes
